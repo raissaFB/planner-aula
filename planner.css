@@ -1,0 +1,21 @@
+body{
+background-image: url(../escola/fundo\ do\ planer.jfif) ;
+background-position: center center;
+background-repeat: no-repeat ;
+background-size: cover;
+color: rgb(17, 95, 69);
+}
+
+a{
+    color: rgb(17, 95, 69);
+    text-decoration:overline;
+}
+
+body a:hover{
+    color: rgb(225, 0, 255);
+}
+
+footer img{
+    width: 30px;
+    height: 30px;
+}

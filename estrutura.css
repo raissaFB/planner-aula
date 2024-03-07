@@ -1,0 +1,13 @@
+
+body {
+ background-image: url(../escola/fundo\ do\ planer.jfif);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: center center;
+ color: rgb(17, 95, 69);
+}
+
+a{
+    color: rgb(17, 95, 69);
+    text-decoration: overline;
+}
