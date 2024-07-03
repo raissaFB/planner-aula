@@ -4,6 +4,7 @@ background-position: center center;
 background-repeat: no-repeat ;
 background-size: cover;
 color: rgb(17, 95, 69);
+background-color: azure;
 }
 
 a{
@@ -16,6 +17,6 @@ body a:hover{
 }
 
 footer img{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
 }
